@@ -4,6 +4,12 @@
 - Copied code
 - Pushed to this repository
 
+### Note:
+So I have found a way to get the code. It's probably not the most elegent. (Pulling or cloning from branch in the repository would be best.) I have cloned the entire course code into a project. 
+Now that I have figured out the checkout branch situation I can do that and then copy the code into my newly setup "AssignementXX" folder. 
+
+I'll keep working on it and figure out the proper way to clone a branch. 
+
 # Barky
 
 Barky is inspired by Dane Hillard's Bark example of an application that demonstrates some basic software engineering principles such as:
